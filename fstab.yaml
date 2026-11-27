@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://author-p243559-e2407089.adobeaemcloud.com/bin/franklin.delivery/oneadobelearner11/oneadobe-learner02-citisignal-aem-accs/main
+    type: markup
+    suffix: .html
+folders:
+  /products/: /products/default
